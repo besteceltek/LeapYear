@@ -1,10 +1,10 @@
 # Leap Year Calculator
 This program determines if a year prompted by user is a leap year or not.
 
-## What is Leap Year?
+### What is Leap Year?
 A leap year is a year with 366 days instead of 365 in the Gregorian calendar. This extra day (leap day) is obtained by adding February 29 to February, which normally has 28 days.
 
-## How to Calculate Leap Year?
+### How to Calculate Leap Year?
 As a general rule, leap years are years that are multiples of 4:
 * Such as 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020, 2024.
 Among the years that are multiples of 100, only those that are divisible by 400 without remainder are leap years:
